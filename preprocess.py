@@ -20,6 +20,8 @@ from qdrant_client.models import Distance, VectorParams
 from langchain_ollama import ChatOllama
 from langchain_core.documents import Document
 
+# Importer les constantes
+from constants import KEYWORDS
 
 # === 1. PRÉ-TRAITEMENT DES DONNÉES EXCEL ===
 def preprocess_excel_data(sheets_data: Dict[str, pd.DataFrame]) -> Dict[str, Any]:
@@ -53,7 +55,7 @@ def preprocess_excel_data(sheets_data: Dict[str, pd.DataFrame]) -> Dict[str, Any
                 row = df.iloc[i].tolist()
                 # Vérifier si la ligne semble être un en-tête (contient des mots clés)
                 row_text = " ".join(str(cell) for cell in row).lower()
-                if any(keyword in row_text for keyword in ["pays", "code", "année", "population", "francophone"]):
+                if any(keyword in row_text for keyword in KEYWORDS):
                     sheet_stats["ligne_entetes"] = i
                     sheet_stats["entetes"] = row
                     break
