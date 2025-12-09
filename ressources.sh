@@ -1,0 +1,5 @@
+export CUDA_VISIBLE_DEVICES=0
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+export TORCH_CUDA_ARCH_LIST="8.6"
+export CUDA_DEVICE_MAX_CON

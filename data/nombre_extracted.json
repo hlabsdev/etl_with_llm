@@ -1,0 +1,264 @@
+[
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.2542453958383162,
+    "unite": "%",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2018,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.21535015096912438,
+    "unite": "%",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2010,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.2783,
+    "unite": "%",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2030
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.6299694189602446,
+    "unite": "%",
+    "pays": "Mayotte",
+    "region": "Afrique australe et Océan Indien",
+    "annee": 2024
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.1273980815347722,
+    "unite": "%",
+    "pays": "Mauritanie",
+    "region": "Afrique du Nord",
+    "annee": 2010
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.5004703668861712,
+    "unite": "%",
+    "pays": "Djibouti",
+    "region": "Afrique de l'Est",
+    "annee": 2018
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.2783,
+    "unite": "%",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2026
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.2783,
+    "unite": "%",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2025
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.240864960282436,
+    "unite": "%",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2014
+  },
+  {
+    "indicateur": "taux de francophonie",
+    "valeur": 0.2782785496441884,
+    "unite": "%",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2024
+  },
+  {
+    "indicateur": "population",
+    "valeur": 5315.0645,
+    "unite": "milliers",
+    "pays": "Mauritanie",
+    "region": "Afrique du Nord",
+    "annee": 2025,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 4273,
+    "unite": "milliers",
+    "pays": "Mauritanie",
+    "region": "Afrique du Nord",
+    "annee": 2018,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 269,
+    "unite": "milliers",
+    "pays": "Mayotte",
+    "region": "Afrique australe et Océan Indien",
+    "annee": 2018,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 262,
+    "unite": "",
+    "pays": "Djibouti",
+    "region": "Afrique de l'Est",
+    "annee": null,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 4803,
+    "unite": "milliers",
+    "pays": "Mauritanie",
+    "region": "Afrique du Nord",
+    "annee": 2022,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 13881,
+    "unite": "milliers",
+    "pays": "Guinée",
+    "region": "Afrique de l'Ouest",
+    "annee": 2022,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 84,
+    "unite": "milliers",
+    "pays": "Andorre",
+    "region": "Europe occidentale",
+    "annee": 2010,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 1184.0765,
+    "unite": "milliers",
+    "pays": "Djibouti",
+    "region": "Afrique de l'Est",
+    "annee": 2025,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 47435.3115,
+    "unite": "milliers",
+    "pays": "Algérie",
+    "region": "Afrique du Nord",
+    "annee": 2025,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 391,
+    "unite": "milliers",
+    "pays": "Mayotte",
+    "region": "Afrique australe et Océan Indien",
+    "annee": 2030,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 1169,
+    "unite": "milliers",
+    "pays": "Djibouti",
+    "region": "Afrique de l'Est",
+    "annee": 2024,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 5461,
+    "unite": "milliers",
+    "pays": "Mauritanie",
+    "region": "Afrique du Nord",
+    "annee": 2026,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 348,
+    "unite": "milliers",
+    "pays": "Mayotte",
+    "region": "Afrique australe et Océan Indien",
+    "annee": 2026,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 175,
+    "unite": "milliers",
+    "pays": "Mayotte",
+    "region": "Afrique australe et Océan Indien",
+    "annee": "",
+    "source_document": ""
+  },
+  {
+    "indicateur": "population",
+    "valeur": 42106,
+    "unite": "milliers",
+    "pays": "Algérie",
+    "region": "Afrique du Nord",
+    "annee": 2018,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 46814,
+    "unite": "milliers",
+    "pays": "Algérie",
+    "region": "Afrique du Nord",
+    "annee": 2024,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 5169,
+    "unite": "milliers",
+    "pays": "Mauritanie",
+    "region": "Afrique du Nord",
+    "annee": 2024,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 231,
+    "unite": "milliers",
+    "pays": "Mayotte",
+    "region": "Afrique australe et Océan Indien",
+    "annee": 2014,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 994,
+    "unite": "milliers",
+    "pays": "Djibouti",
+    "region": "Afrique de l'Est",
+    "annee": 2014,
+    "source_document": "SOURCE"
+  },
+  {
+    "indicateur": "population",
+    "valeur": 337.011,
+    "unite": "milliers",
+    "pays": "Mayotte",
+    "region": "Afrique australe et Océan Indien",
+    "annee": 2025,
+    "source_document": "SOURCE"
+  }
+]
